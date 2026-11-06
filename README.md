@@ -1,5 +1,3 @@
-<img width="623" height="336" alt="image" src="https://github.com/user-attachments/assets/adc0bb5c-6e82-422e-bf5b-c33568e280de" /><div align="center">
-
 # 🔬 AI Research Studio
 
 ### *An AI-powered research assistant that integrates Retrieval-Augmented Generation (RAG), semantic vector search, live web search, and Large Language Models to generate accurate, citation-based research reports.*
@@ -80,7 +78,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 🏠 Home
 
 <p align="center">
-  <img src="screenshots/home.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/home.png" width="900">
 </p>
 
 ---
@@ -88,7 +86,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 🏠 Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/dashboard.png" width="900">
 </p>
 
 ---
@@ -96,7 +94,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 🔐 Login
 
 <p align="center">
-  <img src="screenshots/login.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/login.png" width="900">
 </p>
 
 ---
@@ -104,7 +102,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 📝 Register
 
 <p align="center">
-  <img src="screenshots/register.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/register.png" width="900">
 </p>
 
 ---
@@ -112,7 +110,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 📄 Research Generation
 
 <p align="center">
-  <img src="screenshots/loading.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/loading.png" width="900">
 </p>
 
 ---
@@ -120,7 +118,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 📑 Generated Research Report
 
 <p align="center">
-  <img src="screenshots/report_preview.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/report_preview.png" width="900">
 </p>
 
 ---
@@ -128,7 +126,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 ## 📚 Research History
 
 <p align="center">
-  <img src="screenshots/history.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/history.png" width="900">
 </p>
 
 ---
