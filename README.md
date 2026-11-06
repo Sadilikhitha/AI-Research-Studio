@@ -1,4 +1,4 @@
-<div align="center">
+<img width="623" height="336" alt="image" src="https://github.com/user-attachments/assets/adc0bb5c-6e82-422e-bf5b-c33568e280de" /><div align="center">
 
 # 🔬 AI Research Studio
 
@@ -45,7 +45,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="screenshots/architecture.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/architecture.png" width="900">
 </p>
 
 ---
@@ -53,7 +53,7 @@ The platform enables users to upload PDF documents, retrieve relevant contextual
 # 🔄 Research Workflow
 
 <p align="center">
-  <img src="screenshots/workflow.png" width="900">
+  <img src="AI-Research-Studio-main/screenshots/workflow.png" width="900">
 </p>
 
 ---
